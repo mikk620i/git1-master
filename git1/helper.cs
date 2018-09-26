@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace git1
 {
-    class helper
+    class Helper
     {
     }
 }
